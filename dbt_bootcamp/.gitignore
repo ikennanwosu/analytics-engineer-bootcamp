@@ -1,0 +1,8 @@
+
+target/
+dbt_packages/
+logs/
+../.DS_Store
+../dbt-env/
+../logs/
+../sa_dbt_bigquery_bootcamp.json
